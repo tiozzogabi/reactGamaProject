@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactGamaProject/static/css/main.3f3c1a09.chunk.css",
+    "main.js": "/reactGamaProject/static/js/main.503f79d6.chunk.js",
+    "main.js.map": "/reactGamaProject/static/js/main.503f79d6.chunk.js.map",
+    "runtime-main.js": "/reactGamaProject/static/js/runtime-main.954cd196.js",
+    "runtime-main.js.map": "/reactGamaProject/static/js/runtime-main.954cd196.js.map",
+    "static/js/2.bf77a70c.chunk.js": "/reactGamaProject/static/js/2.bf77a70c.chunk.js",
+    "static/js/2.bf77a70c.chunk.js.map": "/reactGamaProject/static/js/2.bf77a70c.chunk.js.map",
+    "index.html": "/reactGamaProject/index.html",
+    "static/css/main.3f3c1a09.chunk.css.map": "/reactGamaProject/static/css/main.3f3c1a09.chunk.css.map",
+    "static/js/2.bf77a70c.chunk.js.LICENSE.txt": "/reactGamaProject/static/js/2.bf77a70c.chunk.js.LICENSE.txt",
+    "static/media/tommy-nguyen.f977770b.jpg": "/reactGamaProject/static/media/tommy-nguyen.f977770b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.954cd196.js",
+    "static/js/2.bf77a70c.chunk.js",
+    "static/css/main.3f3c1a09.chunk.css",
+    "static/js/main.503f79d6.chunk.js"
+  ]
+}
